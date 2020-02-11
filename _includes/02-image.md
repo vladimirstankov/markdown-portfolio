@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile image](https://cdn.vox-cdn.com/thumbor/kYVdlt4tzRvj5hcnG5EKljnI6Kw=/0x0:2040x1360/1220x813/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66269615/dbush_170530_1759_0098.0.jpg)
